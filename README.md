@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Gamifying the Constitution.<br>I'm currently learning how to exist.<br>Fun fact: I'm lazy.
+I'm currently working on Nothing.<br>I'm currently learning how to exist.<br>Fun fact: I'm lazy.
 
 
 ## 🌐 Socials:
