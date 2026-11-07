@@ -1,26 +1,145 @@
-# 💫 About Me:
-I'm currently working on Nothing.<br>I'm currently learning how to exist.<br>Fun fact: I'm lazy.
+# Hey, I'm Harsh! 👋
 
+### Salesforce Developer | OmniStudio | Agentforce | AI & Machine Learning
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/harsh-parandkar-66705b253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parandkarharsh@gmail.com) [![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=Linktree&logoColor=white)](https://harshparandkar.github.io/linktree/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=Google-Chrome&logoColor=white)](https://harshparandkar.github.io/)
+I'm a **Salesforce OmniStudio + Core Developer** with **1.5 years of professional experience**, passionate about building scalable applications, automating business processes, and exploring AI-powered solutions.
 
+I enjoy working across the Salesforce ecosystem — from Apex and Lightning Web Components to OmniStudio and Agentforce — while continuously expanding my knowledge of software development and machine learning.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=apex&logoColor=white) ![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Lightning Web Components](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![SOQL](https://img.shields.io/badge/SOQL-1798c1?style=for-the-badge&logo=salesforce&logoColor=white) ![Salesforce CLI](https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshParandkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarshParandkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshParandkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshParandkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💼 Working as a Salesforce OmniStudio + Core Developer
+- ☁️ Building solutions with Salesforce Core, Apex, LWC and OmniStudio
+- 🤖 Exploring Agentforce and AI-powered business automation
+- 🧠 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Always learning, experimenting and building something new
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarshParandkar&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-parandkar-66705b253)
+[![Trailhead](https://img.shields.io/badge/Salesforce-Trailhead-00A1E0?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/b55yzqdpqjd02envbb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome)](https://harshparandkar.github.io/)
+[![Linktree](https://img.shields.io/badge/Linktree-Visit-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://harshparandkar.github.io/linktree/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parandkarharsh@gmail.com)
+
+---
+
+## ☁️ Salesforce Expertise
+
+My primary development focus is the Salesforce platform.
+
+**Salesforce Core**
+- Apex, SOQL and Triggers
+- Lightning Web Components (LWC)
+- Salesforce Flows and Automation
+- Objects, Relationships and Data Modeling
+- Security, Sharing and Validation Rules
+
+**Salesforce OmniStudio**
+- OmniScripts
+- FlexCards
+- Integration Procedures
+- Data Mappers
+
+**Salesforce AI**
+- Agentforce
+- AI-powered automation
+- Intelligent business workflows
+
+---
+
+## 💻 Tech Stack
+
+### Salesforce & Cloud
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce CLI](https://img.shields.io/badge/Salesforce_CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+### Programming & Web Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### AI, Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
+
+### Frameworks, Tools & Databases
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Income Inequality Indicator](https://github.com/HarshParandkar/Income-Inequality-Indicator) | Analyzing income inequality using the Gini Index. | Python, ML |
+| [Movie Review Sentiment Analysis](https://github.com/HarshParandkar/Sentiment-Analysis-for-Movie-Reviews) | Classifying sentiments in movie reviews. | Python, NLP |
+| [Voice Recognition To-Do List](https://github.com/HarshParandkar/Todo-List-with-Voice-Recognition) | Managing tasks using voice commands. | Python |
+| [Speech to Text / Text to Speech](https://github.com/HarshParandkar/STT-TTS) | Voice transcription and speech generation. | Python |
+| [PingPongJS](https://github.com/HarshParandkar/PingPongJS) | Browser-based two-player Ping Pong game. | JavaScript, HTML, CSS |
+| [Hangman](https://github.com/HarshParandkar/Hangman) | Interactive movie title guessing game. | Programming |
+
+---
+
+## 🏆 Salesforce Credentials
+
+- [Salesforce Certified Platform Administrator](https://drive.google.com/file/d/1ajFsaL2iRuvbkMBLZz4HzCcxY70_Bukl/view?usp=sharing)
+- [Salesforce Certified Agentforce Specialist](https://drive.google.com/file/d/1VkGWT30vn_rsxEGmpwqX0mtZPfffaGMT/view?usp=sharing)
+- [Salesforce Accredited Agentforce Financial Services Professional](https://drive.google.com/file/d/1fn-luTkDykXJYGczA0F_8tUaq5KJuwnj/view?usp=sharing)
+
+Explore my [Trailblazer Profile](https://www.salesforce.com/trailblazer/b55yzqdpqjd02envbb) for more Salesforce learning and achievements.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshParandkar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HarshParandkar&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshParandkar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshParandkar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building, learning and turning ideas into solutions."</i>
+  <br/><br/>
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshParandkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
