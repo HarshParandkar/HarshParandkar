@@ -113,27 +113,6 @@ Explore my [Trailblazer Profile](https://www.salesforce.com/trailblazer/b55yzqdp
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshParandkar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HarshParandkar&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshParandkar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshParandkar&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 <p align="center">
   <i>"Building, learning and turning ideas into solutions."</i>
   <br/><br/>
